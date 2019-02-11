@@ -1,0 +1,23 @@
+header{
+  display: flex;
+  justify-content: center;
+  color: blue;
+}
+
+.container-regalo {
+  display: flex;
+  margin: 10px;
+}
+  
+.container-regalo ol li {
+	margin: 20px;
+	}
+.container-regalo ol {
+	list-style-type: none;
+}
+
+img {
+	width: 125px;
+	height: 125px;
+}
+
